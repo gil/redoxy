@@ -1,0 +1,11 @@
+{
+  "name": "redoxy",
+  "version": "0.0.1",
+  "description": "redoxy - A redis proxy server. =]",
+  "dependencies": {
+    "commander": "^2.6.0",
+    "crypto": "0.0.3",
+    "redis": "^0.12.1"
+  },
+  "engine": "node 0.4.1"
+}
