@@ -1,4 +1,3 @@
-var logger = require('../logger');
+var logger = require('../lib/logger');
 
-console.log('aaaa')
-logger.info('bla bla bla')
+logger.info('bla bla  ewfwefwe ffwe wef wef w');

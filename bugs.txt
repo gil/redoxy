@@ -1,0 +1,14 @@
+
+
+Memory Leak: redis or server? :/
+
+
+(node) warning: possible EventEmitter memory leak detected. 11 listeners added. Use emitter.setMaxListeners() to increase limit.
+Trace
+    at RedisClient.addListener (events.js:160:15)
+    at Server.<anonymous> (/var/redoxy/server.js:23:15)
+    at Server.emit (events.js:98:17)
+    at HTTPParser.parser.onIncoming (http.js:2113:12)
+    at HTTPParser.parserOnHeadersComplete [as onHeadersComplete] (http.js:122:23)
+    at Socket.socket.ondata (http.js:1971:22)
+    at TCP.onread (net.js:528:27)

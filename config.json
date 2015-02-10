@@ -6,6 +6,11 @@
     },
     "cache": {
         "ttl": 1209600
+    },
+    "logger": {
+    	"dir": "/var/log/redoxy/",
+    	"file": "redoxy.log",
+    	"errorfile": "redoxy-error.log",
+    	"maxfiles": 20
     }
-
 }

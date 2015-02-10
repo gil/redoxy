@@ -2,15 +2,16 @@ var http = require('http');
 var redis = require('redis');
 var crypto = require('crypto');
 var cfg = require('./config.json');
-var filters = require('./filters')
+var filters = require('./filters');
+var logger = require('./lib/logger');
 
 function start(cfg) {
 
-	console.log('redoxy.port ' + cfg.port);
-	console.log('redis.port ' + cfg.redis.port);
-	console.log('redis.host ' + cfg.redis.host);
+	var redisClient = redis.createClient(cfg.redis.port, cfg.redis.host, {});
 
-	var redisClient = redis.createClient(6379, '127.0.0.1', {});
+	redisClient.on('error', function(e) {
+		logger.error('erro: ' + e);
+	});
 
 	var server = http.createServer(function(req, res) {
 
@@ -20,14 +21,10 @@ function start(cfg) {
 
 		var uhash = crypto.createHash('sha1').update(url).digest('hex');
 
-		redisClient.on('error', function(e) {
-			console.log('erro: ' + e);
-		})
-
 		redisClient.get(uhash, function(err, reply) {
 
 			if (reply) {
-				console.log('#cached result url=' + uhash);
+				logger.info('#cached result url=' + uhash);
 				res.end(reply);
 			} else {
 				doGet(req, res, redisClient, uhash);
@@ -50,10 +47,10 @@ function start(cfg) {
 
 			response.on('end', function() {
 				if(filters.body(body)) {
-					console.log('#new result url=' + uhash);
+					logger.info('#new result url=' + uhash);
 					rc.setex(uhash, cfg.cache.ttl, body);
 				} else {
-					console.log('#filtered body result url=' + uhash);
+					logger.info('#filtered body result url=' + uhash);
 				}
 				res.end(body);
 			});
@@ -61,8 +58,8 @@ function start(cfg) {
 	}
 
 	server.listen(cfg.port);
-	console.log('Redoxy started and listening on port: %s, redis.port: %s, redis.host: ', cfg.port, cfg.redis.port);
-	console.log('Redoxy using Redis on: port %s and host %s', cfg.redis.port, cfg.redis.host);
+	logger.info('Redoxy started and listening on port: %s, redis.port: %s, redis.host: ', cfg.port, cfg.redis.port, cfg.redis.host);
+	logger.error('Redoxy using Redis on: port %s and host %s', cfg.redis.port, cfg.redis.host);
 
 }
 
