@@ -23,9 +23,8 @@ function start(cfg) {
 		var uhash = crypto.createHash('sha1').update(url).digest('hex');
 
 		redisClient.get(uhash, function(err, reply) {
-
 			if (reply) {
-				zlib.gunzip(reply, function(err, unzipedReply) {
+				zlib.gunzip(new Buffer(reply, 'binary'), function(err, unzipedReply) {
 					res.end(unzipedReply);
 				});
 				
@@ -53,12 +52,13 @@ function start(cfg) {
 					logger.info('#new result url=' + uhash);
 					
 					zlib.gzip(body, function(err, gzipBody) {
-						rc.setex(uhash, cfg.cache.ttl, gzipBody);
+						rc.setex(uhash, cfg.cache.ttl, gzipBody.toString('binary'));
+						res.end(body);
 					});
 				} else {
 					logger.info('#filtered body result url=' + uhash);
+					res.end(body);
 				}
-				res.end(body);
 			});
 		});
 	}
