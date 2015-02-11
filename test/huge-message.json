@@ -1,0 +1,2225 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Rio Preto",
+               "short_name" : "Av. Rio Preto",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jardim Congonhas",
+               "short_name" : "Jardim Congonhas",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15030-010",
+               "short_name" : "15030-010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Avenida Rio Preto, 3 - Jardim Congonhas, Sxc3xa3o Josxc3xa9 do Rio Preto - SP, 15030-010, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.8028561,
+                  "lng" : -49.4021094
+               },
+               "southwest" : {
+                  "lat" : -20.8028685,
+                  "lng" : -49.4021222
+               }
+            },
+            "location" : {
+               "lat" : -20.8028685,
+               "lng" : -49.4021222
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.80151331970849,
+                  "lng" : -49.40076681970851
+               },
+               "southwest" : {
+                  "lat" : -20.8042112802915,
+                  "lng" : -49.40346478029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Rio Preto",
+               "short_name" : "R. Rio Preto",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gonzaga de Campos",
+               "short_name" : "Gonzaga de Campos",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15035-290",
+               "short_name" : "15035-290",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Rio Preto, 3 - Gonzaga de Campos, Sxc3xa3o Josxc3xa9 do Rio Preto - SP, 15035-290, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.8097709,
+                  "lng" : -49.4238837
+               },
+               "southwest" : {
+                  "lat" : -20.8097802,
+                  "lng" : -49.4238992
+               }
+            },
+            "location" : {
+               "lat" : -20.8097802,
+               "lng" : -49.4238992
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.8084265697085,
+                  "lng" : -49.4225424697085
+               },
+               "southwest" : {
+                  "lat" : -20.8111245302915,
+                  "lng" : -49.4252404302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Sxc3xa3o Paulo",
+               "short_name" : "Av. Sxc3xa3o Paulo",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Eldorado",
+               "short_name" : "Eldorado",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15043",
+               "short_name" : "15043",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Avenida Sxc3xa3o Paulo, 3 - Eldorado, Sxc3xa3o Josxc3xa9 do Rio Preto - SP, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.7897465,
+                  "lng" : -49.3993786
+               },
+               "southwest" : {
+                  "lat" : -20.7897616,
+                  "lng" : -49.39938739999999
+               }
+            },
+            "location" : {
+               "lat" : -20.7897616,
+               "lng" : -49.39938739999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.7884050697085,
+                  "lng" : -49.3980340197085
+               },
+               "southwest" : {
+                  "lat" : -20.7911030302915,
+                  "lng" : -49.4007319802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Av. Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Eldorado",
+               "short_name" : "Eldorado",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15043-030",
+               "short_name" : "15043-030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Avenida Sxc3xa3o Josxc3xa9 do Rio Preto, 3 - Eldorado, Sxc3xa3o Josxc3xa9 do Rio Preto - SP, 15043-030, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.7931451,
+                  "lng" : -49.3999429
+               },
+               "southwest" : {
+                  "lat" : -20.7931568,
+                  "lng" : -49.3999564
+               }
+            },
+            "location" : {
+               "lat" : -20.7931568,
+               "lng" : -49.3999564
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.7918019697085,
+                  "lng" : -49.3986006697085
+               },
+               "southwest" : {
+                  "lat" : -20.7944999302915,
+                  "lng" : -49.4012986302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Josxc3xa9 do Patrocxc3xadnio",
+               "short_name" : "R. Josxc3xa9 do Patrocxc3xadnio",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Solo Sagrado I",
+               "short_name" : "Solo Sagrado I",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15044-370",
+               "short_name" : "15044-370",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Josxc3xa9 do Patrocxc3xadnio, 3 - Solo Sagrado I, Sxc3xa3o Josxc3xa9 do Rio Preto - SP, 15044-370, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.7748708,
+                  "lng" : -49.41310499999999
+               },
+               "southwest" : {
+                  "lat" : -20.7748833,
+                  "lng" : -49.4131177
+               }
+            },
+            "location" : {
+               "lat" : -20.7748833,
+               "lng" : -49.41310499999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.7735280697085,
+                  "lng" : -49.4117623697085
+               },
+               "southwest" : {
+                  "lat" : -20.7762260302915,
+                  "lng" : -49.4144603302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Josxc3xa9 P. de Carvalho",
+               "short_name" : "R. Josxc3xa9 P. de Carvalho",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jardim Nunes",
+               "short_name" : "Jardim Nunes",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15046-824",
+               "short_name" : "15046-824",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Josxc3xa9 P. de Carvalho, 3 - Jardim Nunes, Sxc3xa3o Josxc3xa9 do Rio Preto - SP, 15046-824, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.7721242,
+                  "lng" : -49.3911103
+               },
+               "southwest" : {
+                  "lat" : -20.7721415,
+                  "lng" : -49.3911105
+               }
+            },
+            "location" : {
+               "lat" : -20.7721415,
+               "lng" : -49.3911105
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.7707838697085,
+                  "lng" : -49.3897614197085
+               },
+               "southwest" : {
+                  "lat" : -20.77348183029151,
+                  "lng" : -49.3924593802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Josxc3xa9 Fernandes",
+               "short_name" : "R. Josxc3xa9 Fernandes",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jardim Santo Antxc3xb4nio",
+               "short_name" : "Jardim Santo Antxc3xb4nio",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15047-172",
+               "short_name" : "15047-172",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Josxc3xa9 Fernandes, 3 - Jardim Santo Antxc3xb4nio, Sxc3xa3o Josxc3xa9 do Rio Preto - SP, 15047-172, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.7626893,
+                  "lng" : -49.39255929999999
+               },
+               "southwest" : {
+                  "lat" : -20.7626971,
+                  "lng" : -49.3925758
+               }
+            },
+            "location" : {
+               "lat" : -20.7626971,
+               "lng" : -49.3925758
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.7613442197085,
+                  "lng" : -49.39121856970851
+               },
+               "southwest" : {
+                  "lat" : -20.7640421802915,
+                  "lng" : -49.39391653029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Josxc3xa9 Ribeiro",
+               "short_name" : "R. Josxc3xa9 Ribeiro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Parque do Sol",
+               "short_name" : "Parque do Sol",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15040-505",
+               "short_name" : "15040-505",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Josxc3xa9 Ribeiro, 3 - Parque do Sol, Sxc3xa3o Josxc3xa9 do Rio Preto - SP, 15040-505, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.8040672,
+                  "lng" : -49.4204228
+               },
+               "southwest" : {
+                  "lat" : -20.8040717,
+                  "lng" : -49.4204406
+               }
+            },
+            "location" : {
+               "lat" : -20.8040717,
+               "lng" : -49.4204406
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.8027204697085,
+                  "lng" : -49.41908271970851
+               },
+               "southwest" : {
+                  "lat" : -20.8054184302915,
+                  "lng" : -49.4217806802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Josxc3xa9 Lopes",
+               "short_name" : "R. Josxc3xa9 Lopes",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Solo Sagrado",
+               "short_name" : "Solo Sagrado",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15044-090",
+               "short_name" : "15044-090",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Josxc3xa9 Lopes, 3 - Solo Sagrado, Sxc3xa3o Josxc3xa9 do Rio Preto - SP, 15044-090, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.781037,
+                  "lng" : -49.40603249999999
+               },
+               "southwest" : {
+                  "lat" : -20.7810489,
+                  "lng" : -49.40604580000001
+               }
+            },
+            "location" : {
+               "lat" : -20.7810489,
+               "lng" : -49.40604580000001
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.7796939697085,
+                  "lng" : -49.4046901697085
+               },
+               "southwest" : {
+                  "lat" : -20.7823919302915,
+                  "lng" : -49.4073881302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Josxc3xa9 Lopes",
+               "short_name" : "R. Josxc3xa9 Lopes",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jardim das Oliveiras",
+               "short_name" : "Jardim das Oliveiras",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15047-037",
+               "short_name" : "15047-037",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Josxc3xa9 Lopes, 3 - Jardim das Oliveiras, Sxc3xa3o Josxc3xa9 do Rio Preto - SP, 15047-037, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.768294,
+                  "lng" : -49.4099308
+               },
+               "southwest" : {
+                  "lat" : -20.7683098,
+                  "lng" : -49.4099381
+               }
+            },
+            "location" : {
+               "lat" : -20.7683098,
+               "lng" : -49.4099308
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.7669529197085,
+                  "lng" : -49.40858546970851
+               },
+               "southwest" : {
+                  "lat" : -20.7696508802915,
+                  "lng" : -49.4112834302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Josxc3xa9 Tebar",
+               "short_name" : "R. Josxc3xa9 Tebar",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jardim Antunes",
+               "short_name" : "Jardim Antunes",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15047-067",
+               "short_name" : "15047-067",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Josxc3xa9 Tebar, 3 - Jardim Antunes, Sxc3xa3o Josxc3xa9 do Rio Preto - SP, 15047-067, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.7768699,
+                  "lng" : -49.4012875
+               },
+               "southwest" : {
+                  "lat" : -20.7768822,
+                  "lng" : -49.4013004
+               }
+            },
+            "location" : {
+               "lat" : -20.7768822,
+               "lng" : -49.4013004
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.7755270697085,
+                  "lng" : -49.3999449697085
+               },
+               "southwest" : {
+                  "lat" : -20.7782250302915,
+                  "lng" : -49.4026429302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Josxc3xa9 Monteiro",
+               "short_name" : "R. Josxc3xa9 Monteiro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Solo Sagrado",
+               "short_name" : "Solo Sagrado",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15044-175",
+               "short_name" : "15044-175",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Josxc3xa9 Monteiro, 3 - Solo Sagrado, Sxc3xa3o Josxc3xa9 do Rio Preto - SP, 15044-175, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.7845703,
+                  "lng" : -49.4118696
+               },
+               "southwest" : {
+                  "lat" : -20.7845819,
+                  "lng" : -49.4118832
+               }
+            },
+            "location" : {
+               "lat" : -20.7845819,
+               "lng" : -49.4118832
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.7832271197085,
+                  "lng" : -49.4105274197085
+               },
+               "southwest" : {
+                  "lat" : -20.7859250802915,
+                  "lng" : -49.41322538029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Josxc3xa9 Zanirato",
+               "short_name" : "R. Josxc3xa9 Zanirato",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vila Sao Jorge",
+               "short_name" : "Vila Sao Jorge",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15040-030",
+               "short_name" : "15040-030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Josxc3xa9 Zanirato, 3 - Vila Sao Jorge, Sxc3xa3o Josxc3xa9 do Rio Preto - SP, 15040-030, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.7980598,
+                  "lng" : -49.4022806
+               },
+               "southwest" : {
+                  "lat" : -20.7980733,
+                  "lng" : -49.402292
+               }
+            },
+            "location" : {
+               "lat" : -20.7980733,
+               "lng" : -49.4022806
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.7967175697085,
+                  "lng" : -49.4009373197085
+               },
+               "southwest" : {
+                  "lat" : -20.7994155302915,
+                  "lng" : -49.4036352802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Josxc3xa9 Bossa",
+               "short_name" : "R. Josxc3xa9 Bossa",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Solo Sagrado",
+               "short_name" : "Solo Sagrado",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15044-070",
+               "short_name" : "15044-070",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Josxc3xa9 Bossa, 3 - Solo Sagrado, Sxc3xa3o Josxc3xa9 do Rio Preto - SP, 15044-070, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.7804432,
+                  "lng" : -49.4052041
+               },
+               "southwest" : {
+                  "lat" : -20.7804552,
+                  "lng" : -49.4052173
+               }
+            },
+            "location" : {
+               "lat" : -20.7804552,
+               "lng" : -49.4052173
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.7791002197085,
+                  "lng" : -49.4038617197085
+               },
+               "southwest" : {
+                  "lat" : -20.7817981802915,
+                  "lng" : -49.4065596802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Doutor Josxc3xa9 Jorge Jxc3xbanior",
+               "short_name" : "Av. Dr. Josxc3xa9 Jorge Jxc3xbanior",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "CECAP",
+               "short_name" : "CECAP",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15041",
+               "short_name" : "15041",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Avenida Doutor Josxc3xa9 Jorge Jxc3xbanior, 3 - CECAP, Sxc3xa3o Josxc3xa9 do Rio Preto - SP, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.7931513,
+                  "lng" : -49.4170562
+               },
+               "southwest" : {
+                  "lat" : -20.7931674,
+                  "lng" : -49.4170629
+               }
+            },
+            "location" : {
+               "lat" : -20.7931674,
+               "lng" : -49.4170562
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.7918103697085,
+                  "lng" : -49.4157105697085
+               },
+               "southwest" : {
+                  "lat" : -20.7945083302915,
+                  "lng" : -49.4184085302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Josxc3xa9 Gregxc3xb3rio de Guzi",
+               "short_name" : "R. Josxc3xa9 Gregxc3xb3rio de Guzi",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Parque Residencial Joao da Silva",
+               "short_name" : "Parque Res. Joao da Silva",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15043-595",
+               "short_name" : "15043-595",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Josxc3xa9 Gregxc3xb3rio de Guzi, 3 - Parque Residencial Joao da Silva, Sxc3xa3o Josxc3xa9 do Rio Preto - SP, 15043-595, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.7890115,
+                  "lng" : -49.41014939999999
+               },
+               "southwest" : {
+                  "lat" : -20.7890216,
+                  "lng" : -49.4101643
+               }
+            },
+            "location" : {
+               "lat" : -20.7890115,
+               "lng" : -49.4101643
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.7876675697085,
+                  "lng" : -49.4088078697085
+               },
+               "southwest" : {
+                  "lat" : -20.7903655302915,
+                  "lng" : -49.41150583029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Josxc3xa9 Vixc3xaaira da Costa",
+               "short_name" : "R. Josxc3xa9 Vixc3xaaira da Costa",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jardim Maria Lucia",
+               "short_name" : "Jardim Maria Lucia",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15047-086",
+               "short_name" : "15047-086",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Josxc3xa9 Vixc3xaaira da Costa, 3 - Jardim Maria Lucia, Sxc3xa3o Josxc3xa9 do Rio Preto - SP, 15047-086, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.7700712,
+                  "lng" : -49.399707
+               },
+               "southwest" : {
+                  "lat" : -20.7700802,
+                  "lng" : -49.3997227
+               }
+            },
+            "location" : {
+               "lat" : -20.7700802,
+               "lng" : -49.3997227
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.7687267197085,
+                  "lng" : -49.39836586970851
+               },
+               "southwest" : {
+                  "lat" : -20.7714246802915,
+                  "lng" : -49.4010638302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Josxc3xa9 Mulati",
+               "short_name" : "R. Josxc3xa9 Mulati",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jardim Nunes",
+               "short_name" : "Jardim Nunes",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15046-804",
+               "short_name" : "15046-804",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Josxc3xa9 Mulati, 3 - Jardim Nunes, Sxc3xa3o Josxc3xa9 do Rio Preto - SP, 15046-804, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.7519715,
+                  "lng" : -49.3894154
+               },
+               "southwest" : {
+                  "lat" : -20.7519857,
+                  "lng" : -49.3894259
+               }
+            },
+            "location" : {
+               "lat" : -20.7519857,
+               "lng" : -49.3894259
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.7506296197085,
+                  "lng" : -49.3880716697085
+               },
+               "southwest" : {
+                  "lat" : -20.7533275802915,
+                  "lng" : -49.3907696302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Josxc3xa9 Maior",
+               "short_name" : "R. Josxc3xa9 Maior",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jardim Santo Antxc3xb4nio",
+               "short_name" : "Jardim Santo Antxc3xb4nio",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15047-176",
+               "short_name" : "15047-176",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Josxc3xa9 Maior, 3 - Jardim Santo Antxc3xb4nio, Sxc3xa3o Josxc3xa9 do Rio Preto - SP, 15047-176, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.7600516,
+                  "lng" : -49.3961757
+               },
+               "southwest" : {
+                  "lat" : -20.7600588,
+                  "lng" : -49.3961924
+               }
+            },
+            "location" : {
+               "lat" : -20.7600588,
+               "lng" : -49.3961924
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.7587062197085,
+                  "lng" : -49.3948350697085
+               },
+               "southwest" : {
+                  "lat" : -20.7614041802915,
+                  "lng" : -49.3975330302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Josxc3xa9 Antunes Pereira",
+               "short_name" : "R. Josxc3xa9 Antunes Pereira",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Solo Sagrado I",
+               "short_name" : "Solo Sagrado I",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15044-310",
+               "short_name" : "15044-310",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Josxc3xa9 Antunes Pereira, 3 - Solo Sagrado I, Sxc3xa3o Josxc3xa9 do Rio Preto - SP, 15044-310, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.7758927,
+                  "lng" : -49.4100747
+               },
+               "southwest" : {
+                  "lat" : -20.7759051,
+                  "lng" : -49.4100876
+               }
+            },
+            "location" : {
+               "lat" : -20.7759051,
+               "lng" : -49.4100747
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.7745499197085,
+                  "lng" : -49.4087321697085
+               },
+               "southwest" : {
+                  "lat" : -20.7772478802915,
+                  "lng" : -49.4114301302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Josxc3xa9 Sternieri",
+               "short_name" : "R. Josxc3xa9 Sternieri",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Parque das Aroeiras",
+               "short_name" : "Parque das Aroeiras",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15042-081",
+               "short_name" : "15042-081",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Josxc3xa9 Sternieri, 3 - Parque das Aroeiras, Sxc3xa3o Josxc3xa9 do Rio Preto - SP, 15042-081, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.7852057,
+                  "lng" : -49.4336317
+               },
+               "southwest" : {
+                  "lat" : -20.7852199,
+                  "lng" : -49.43364220000001
+               }
+            },
+            "location" : {
+               "lat" : -20.7852199,
+               "lng" : -49.4336317
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.7838638197085,
+                  "lng" : -49.43228796970851
+               },
+               "southwest" : {
+                  "lat" : -20.7865617802915,
+                  "lng" : -49.43498593029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Josxc3xa9 Paes de Arruda",
+               "short_name" : "R. Josxc3xa9 Paes de Arruda",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jardim Anielli",
+               "short_name" : "Jardim Anielli",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15041-233",
+               "short_name" : "15041-233",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Josxc3xa9 Paes de Arruda, 3 - Jardim Anielli, Sxc3xa3o Josxc3xa9 do Rio Preto - SP, 15041-233, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.7922078,
+                  "lng" : -49.4128739
+               },
+               "southwest" : {
+                  "lat" : -20.7922142,
+                  "lng" : -49.41289099999999
+               }
+            },
+            "location" : {
+               "lat" : -20.7922078,
+               "lng" : -49.41289099999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.7908620197085,
+                  "lng" : -49.4115334697085
+               },
+               "southwest" : {
+                  "lat" : -20.7935599802915,
+                  "lng" : -49.41423143029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Josxc3xa9 Sebastixc3xa3o de Almeida",
+               "short_name" : "R. Josxc3xa9 Sebastixc3xa3o de Almeida",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Residencial Ana Celia",
+               "short_name" : "Res. Ana Celia",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15045-560",
+               "short_name" : "15045-560",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Josxc3xa9 Sebastixc3xa3o de Almeida, 3 - Residencial Ana Celia, Sxc3xa3o Josxc3xa9 do Rio Preto - SP, 15045-560, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.7809185,
+                  "lng" : -49.3995447
+               },
+               "southwest" : {
+                  "lat" : -20.780929,
+                  "lng" : -49.3995594
+               }
+            },
+            "location" : {
+               "lat" : -20.780929,
+               "lng" : -49.3995594
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.7795747697085,
+                  "lng" : -49.3982030697085
+               },
+               "southwest" : {
+                  "lat" : -20.7822727302915,
+                  "lng" : -49.4009010302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Josxc3xa9 Cxc3xa2ndido Rosa",
+               "short_name" : "R. Josxc3xa9 Cxc3xa2ndido Rosa",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Parque do Sol",
+               "short_name" : "Parque do Sol",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15040-515",
+               "short_name" : "15040-515",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Josxc3xa9 Cxc3xa2ndido Rosa, 3 - Parque do Sol, Sxc3xa3o Josxc3xa9 do Rio Preto - SP, 15040-515, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.8038094,
+                  "lng" : -49.4198622
+               },
+               "southwest" : {
+                  "lat" : -20.8038138,
+                  "lng" : -49.41988
+               }
+            },
+            "location" : {
+               "lat" : -20.8038138,
+               "lng" : -49.41988
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.8024626197085,
+                  "lng" : -49.41852211970851
+               },
+               "southwest" : {
+                  "lat" : -20.8051605802915,
+                  "lng" : -49.4212200802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Josxc3xa9 Fachini",
+               "short_name" : "R. Josxc3xa9 Fachini",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jardim Itapema",
+               "short_name" : "Jardim Itapema",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15045-331",
+               "short_name" : "15045-331",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Josxc3xa9 Fachini, 3 - Jardim Itapema, Sxc3xa3o Josxc3xa9 do Rio Preto - SP, 15045-331, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.7835828,
+                  "lng" : -49.3934089
+               },
+               "southwest" : {
+                  "lat" : -20.7835905,
+                  "lng" : -49.3934254
+               }
+            },
+            "location" : {
+               "lat" : -20.7835905,
+               "lng" : -49.3934254
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.7822376697085,
+                  "lng" : -49.39206816970849
+               },
+               "southwest" : {
+                  "lat" : -20.7849356302915,
+                  "lng" : -49.39476613029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Antxc3xb4nio Felipe Josxc3xa9",
+               "short_name" : "R. Antxc3xb4nio Felipe Josxc3xa9",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jardim Mugnaini",
+               "short_name" : "Jardim Mugnaini",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15045-389",
+               "short_name" : "15045-389",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Antxc3xb4nio Felipe Josxc3xa9, 3 - Jardim Mugnaini, Sxc3xa3o Josxc3xa9 do Rio Preto - SP, 15045-389, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.7858439,
+                  "lng" : -49.3906298
+               },
+               "southwest" : {
+                  "lat" : -20.7858484,
+                  "lng" : -49.3906476
+               }
+            },
+            "location" : {
+               "lat" : -20.7858439,
+               "lng" : -49.3906476
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.7844971697085,
+                  "lng" : -49.3892897197085
+               },
+               "southwest" : {
+                  "lat" : -20.7871951302915,
+                  "lng" : -49.3919876802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Josxc3xa9 Ribeiro Galvxc3xa3o",
+               "short_name" : "R. Josxc3xa9 Ribeiro Galvxc3xa3o",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Residencial Ana Celia",
+               "short_name" : "Res. Ana Celia",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15045-460",
+               "short_name" : "15045-460",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Josxc3xa9 Ribeiro Galvxc3xa3o, 3 - Residencial Ana Celia, Sxc3xa3o Josxc3xa9 do Rio Preto - SP, 15045-460, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.7820019,
+                  "lng" : -49.3977449
+               },
+               "southwest" : {
+                  "lat" : -20.7820146,
+                  "lng" : -49.39775729999999
+               }
+            },
+            "location" : {
+               "lat" : -20.7820019,
+               "lng" : -49.39775729999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.7806592697085,
+                  "lng" : -49.3964021197085
+               },
+               "southwest" : {
+                  "lat" : -20.7833572302915,
+                  "lng" : -49.3991000802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Josxc3xa9 Carlos de Carvalho",
+               "short_name" : "R. Josxc3xa9 Carlos de Carvalho",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jardim das Oliveiras",
+               "short_name" : "Jardim das Oliveiras",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15047-004",
+               "short_name" : "15047-004",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Josxc3xa9 Carlos de Carvalho, 3 - Jardim das Oliveiras, Sxc3xa3o Josxc3xa9 do Rio Preto - SP, 15047-004, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.7762321,
+                  "lng" : -49.4066075
+               },
+               "southwest" : {
+                  "lat" : -20.7762382,
+                  "lng" : -49.40662469999999
+               }
+            },
+            "location" : {
+               "lat" : -20.7762321,
+               "lng" : -49.40662469999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.7748861697085,
+                  "lng" : -49.4052671197085
+               },
+               "southwest" : {
+                  "lat" : -20.7775841302915,
+                  "lng" : -49.40796508029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Benedito Josxc3xa9 Ismael",
+               "short_name" : "R. Benedito Josxc3xa9 Ismael",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vila Sao Jorge",
+               "short_name" : "Vila Sao Jorge",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15040-080",
+               "short_name" : "15040-080",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Benedito Josxc3xa9 Ismael, 3 - Vila Sao Jorge, Sxc3xa3o Josxc3xa9 do Rio Preto - SP, 15040-080, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.7990936,
+                  "lng" : -49.4046308
+               },
+               "southwest" : {
+                  "lat" : -20.7991041,
+                  "lng" : -49.4046454
+               }
+            },
+            "location" : {
+               "lat" : -20.7991041,
+               "lng" : -49.4046454
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.7977498697085,
+                  "lng" : -49.4032891197085
+               },
+               "southwest" : {
+                  "lat" : -20.8004478302915,
+                  "lng" : -49.4059870802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Josxc3xa9 David Pxc3xa1dua",
+               "short_name" : "R. Josxc3xa9 David Pxc3xa1dua",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jardim Itapema",
+               "short_name" : "Jardim Itapema",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "short_name" : "Sxc3xa3o Josxc3xa9 do Rio Preto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sxc3xa3o Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15045-330",
+               "short_name" : "15045-330",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Josxc3xa9 David Pxc3xa1dua, 3 - Jardim Itapema, Sxc3xa3o Josxc3xa9 do Rio Preto - SP, 15045-330, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.7836288,
+                  "lng" : -49.3932701
+               },
+               "southwest" : {
+                  "lat" : -20.7836288,
+                  "lng" : -49.3932885
+               }
+            },
+            "location" : {
+               "lat" : -20.7836288,
+               "lng" : -49.3932885
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.7822798197085,
+                  "lng" : -49.3919303197085
+               },
+               "southwest" : {
+                  "lat" : -20.7849777802915,
+                  "lng" : -49.3946282802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

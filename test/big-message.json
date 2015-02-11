@@ -1,0 +1,127 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "60010-690",
+               "short_name" : "60010-690",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Centro",
+               "short_name" : "Centro",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Fortaleza",
+               "short_name" : "Fortaleza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fortaleza",
+               "short_name" : "Fortaleza",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cearxc3xa1",
+               "short_name" : "CE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Centro, Fortaleza - CE, 60010-690, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -3.7244422,
+                  "lng" : -38.538849
+               },
+               "southwest" : {
+                  "lat" : -3.7316832,
+                  "lng" : -38.541475
+               }
+            },
+            "location" : {
+               "lat" : -3.7275796,
+               "lng" : -38.5403331
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.7244422,
+                  "lng" : -38.5388130197085
+               },
+               "southwest" : {
+                  "lat" : -3.7316832,
+                  "lng" : -38.5415109802915
+               }
+            }
+         },
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "60010",
+               "short_name" : "60010",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Centro",
+               "short_name" : "Centro",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Fortaleza",
+               "short_name" : "Fortaleza",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cearxc3xa1",
+               "short_name" : "CE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Centro, CE, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -3.718504,
+                  "lng" : -38.5163451
+               },
+               "southwest" : {
+                  "lat" : -3.7315792,
+                  "lng" : -38.52840279999999
+               }
+            },
+            "location" : {
+               "lat" : -3.7253914,
+               "lng" : -38.5230905
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.718504,
+                  "lng" : -38.5163451
+               },
+               "southwest" : {
+                  "lat" : -3.7315792,
+                  "lng" : -38.52840279999999
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}
+

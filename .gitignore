@@ -1,5 +1,6 @@
 .jshintrc
 .tern-project
+*.rdb
 
 # Logs
 logs

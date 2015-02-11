@@ -4,6 +4,7 @@ var crypto = require('crypto');
 var cfg = require('./config.json');
 var filters = require('./filters');
 var logger = require('./lib/logger');
+var zlib = require('zlib');
 
 function start(cfg) {
 
@@ -24,12 +25,14 @@ function start(cfg) {
 		redisClient.get(uhash, function(err, reply) {
 
 			if (reply) {
+				zlib.gunzip(reply, function(err, unzipedReply) {
+					res.end(unzipedReply);
+				});
+				
 				logger.info('#cached result url=' + uhash);
-				res.end(reply);
 			} else {
 				doGet(req, res, redisClient, uhash);
 			}
-
 		});
 
 	});
@@ -48,7 +51,10 @@ function start(cfg) {
 			response.on('end', function() {
 				if(filters.body(body)) {
 					logger.info('#new result url=' + uhash);
-					rc.setex(uhash, cfg.cache.ttl, body);
+					
+					zlib.gzip(body, function(err, gzipBody) {
+						rc.setex(uhash, cfg.cache.ttl, gzipBody);
+					});
 				} else {
 					logger.info('#filtered body result url=' + uhash);
 				}
