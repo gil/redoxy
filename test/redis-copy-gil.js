@@ -26,7 +26,7 @@ function elements(key, i, callback) {
 	redisClient.get(key, function(err, data) {
 		redisClient.ttl(key, function (err, time) {
 			zlib.gzip(data, function(err, gzipData) {
-				redisClient.setex(key, time, gzipData);
+				redisClient.setex(key, time, gzipData.toString('binary'));
 				console.log('key:' + key, i );
 				callback();
 			});
