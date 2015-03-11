@@ -12,5 +12,10 @@
     	"file": "redoxy.log",
     	"errorfile": "redoxy-error.log",
     	"maxfiles": 20
+    },
+    "proxy": {
+    	"host": "localhost",
+    	"port": "8080"
     }
+
 }

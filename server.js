@@ -15,6 +15,7 @@ function start(cfg) {
 	});
 
 	var server = http.createServer(function(req, res) {
+    res.setHeader('Content-Type', 'application/json; charset=UTF-8');
 
 		var host = req.headers.host;
 
@@ -28,7 +29,7 @@ function start(cfg) {
 					res.end(unzipedReply);
 				});
 				
-				logger.info('#cached result url=' + uhash);
+				logger.info('status=cached result url=' + uhash);
 			} else {
 				doGet(req, res, redisClient, uhash);
 			}
@@ -37,11 +38,17 @@ function start(cfg) {
 	});
 
 	function doGet(req, res, rc, uhash) {
+		var host = cfg.proxy && cfg.proxy.host || req.headers.host;
+		var port = cfg.proxy && cfg.proxy.port || 80;
+		var headers = cfg.proxy && cfg.proxy.host && { 'Host':  req.headers.host} || {};
+		
 		http.get({
-			host : req.headers.host,
-			path : req.url
+			host : host,
+			port : port,
+			path : req.url,
+			headers : headers
 		}, function(response) {
-			// Continuously update stream with data
+			
 			var body = '';
 			response.on('data', function(data) {
 				body += data;
@@ -49,14 +56,14 @@ function start(cfg) {
 
 			response.on('end', function() {
 				if(filters.body(body)) {
-					logger.info('#new result url=' + uhash);
+					logger.info('status=new result url=' + uhash);
 					
 					zlib.gzip(body, function(err, gzipBody) {
 						rc.setex(uhash, cfg.cache.ttl, gzipBody.toString('binary'));
 						res.end(body);
 					});
 				} else {
-					logger.info('#filtered body result url=' + uhash);
+					logger.info('status=filtered body result url=' + uhash);
 					res.end(body);
 				}
 			});
@@ -65,7 +72,7 @@ function start(cfg) {
 
 	server.listen(cfg.port);
 	logger.info('Redoxy started and listening on port: %s, redis.port: %s, redis.host: ', cfg.port, cfg.redis.port, cfg.redis.host);
-	logger.error('Redoxy using Redis on: port %s and host %s', cfg.redis.port, cfg.redis.host);
+	logger.info('Redoxy using Redis on: port %s and host %s', cfg.redis.port, cfg.redis.host);
 
 }
 
